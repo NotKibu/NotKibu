@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:coldcoalstudios?theme=gelbooru&padding=4&scale=1&align=center&pixelated=0&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:notkibu?theme=gelbooru&padding=4&scale=1&align=center&pixelated=0&darkmode=auto"  />
 </div>
 
 ###

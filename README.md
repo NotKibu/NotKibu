@@ -20,7 +20,11 @@
   <img width="12" />
   <a href="https://godotengine.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/godot/godot-original.svg" height="30" alt="godot logo"  ></a>
   <img width="12" />
-  <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linux/linux-original.svg" height="30" alt="linux logo" ></a>
+  <a href="https://code.visualstudio.com/download"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  ></a>
+  <img width="12" />
+  <a href="https://www.blender.org/download/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  ></a>
+  <img width="12" />
+  <a href="https://www.linux.org/pages/download/"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linux/linux-original.svg" height="30" alt="linux logo" ></a>
 </div>
 
 ###

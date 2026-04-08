@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="center">Visitors</h4>
+<h4 align="center">Visited</h4>
 
 ###
 

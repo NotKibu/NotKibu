@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:notkibu?theme=gelbooru&padding=4&scale=1&align=center&pixelated=0&darkmode=auto"  />
+  <a href="https://tiny.cc/kittycat100"><img src="https://count.getloli.com/@:notkibu?theme=gelbooru&padding=4&scale=1&align=center&pixelated=0&darkmode=auto"  ></a>
 </div>
 
 ###

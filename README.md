@@ -8,11 +8,11 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/@NottKibu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  ></a>
-  <a href="https://www.twitch.tv/nottkibu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  ></a>
-  <a href="https://notkibu.itch.io/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  ></a>
-</div>
+<p align="left">
+  <a href="https://www.youtube.com/@NottKibu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52"></a>
+  <a href="https://www.twitch.tv/nottkibu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52"></a>
+  <a href="https://notkibu.itch.io/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52"></a>
+</p>
 
 ###
 
